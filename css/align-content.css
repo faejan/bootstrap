@@ -1,0 +1,27 @@
+.orange {
+    background-color: orange;
+}
+
+.green {
+    background-color: green;
+}
+
+.sky {
+    background-color: skyblue;
+}
+
+.tomato {
+    background-color: tomato;
+}
+
+.tan {
+    background-color: tan;
+}
+
+.salmon {
+    background-color: lightsalmon;
+}
+
+.container {
+    border: 2px solid black;
+}
